@@ -6,10 +6,6 @@ const languages = [
   { code: "fr", lang: "French" },
   { code: "hi", lang: "Hindi" },
   { code: "ar", lang: "Arabic" },
-  { code: "en", lang: "English" },
-  { code: "fr", lang: "French" },
-  { code: "hi", lang: "Hindi" },
-  { code: "ar", lang: "Arabic" },
 ];
 
 const LanguageSelector = () => {
